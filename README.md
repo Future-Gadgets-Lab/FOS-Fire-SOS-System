@@ -19,7 +19,7 @@ Based on this data, a real-time fire-map as well as inferenced escape routes are
 
 ### Flowchart
 
-![alt text](https://raw.githubusercontent.com/chetanchawla/FOS-Fire-SOS-System/master/Flowchart.png)
+![alt text](https://raw.githubusercontent.com/Future-Gadgets-Lab/FOS-Fire-SOS-System/master/Flowchart.png)
 
 ## Android Application :
 
@@ -28,28 +28,28 @@ It has 2 modules-
 ### Fire Rescue
 
 SOS button sends severity and spread of fire information to the firebase server connected to nearest fire department, which in turn dispatches a drone and its personnel according to the distance. The drone, and crowd sourced information along with satellite data helps in making fire spread map and rescue paths as well as inform about pedestrians stuck in different grids of the whole area
-![alt text](https://raw.githubusercontent.com/chetanchawla/FOS-Fire-SOS-System/master/Map.png)
+![alt text](https://raw.githubusercontent.com/Future-Gadgets-Lab/FOS-Fire-SOS-System/master/Map.png)
 
-![alt text](https://raw.githubusercontent.com/chetanchawla/FOS-Fire-SOS-System/master/Track.png)
+![alt text](https://raw.githubusercontent.com/Future-Gadgets-Lab/FOS-Fire-SOS-System/master/Track.png)
 
-![alt text](https://raw.githubusercontent.com/chetanchawla/FOS-Fire-SOS-System/master/App.png)
+![alt text](https://raw.githubusercontent.com/Future-Gadgets-Lab/FOS-Fire-SOS-System/master/App.png)
 
-![alt text](https://raw.githubusercontent.com/chetanchawla/FOS-Fire-SOS-System/master/Fire Detection.jpeg)
+![alt text](https://raw.githubusercontent.com/Future-Gadgets-Lab/FOS-Fire-SOS-System/master/Fire Detection.jpeg)
 
-![alt text](https://raw.githubusercontent.com/chetanchawla/FOS-Fire-SOS-System/master/Database.png)
+![alt text](https://raw.githubusercontent.com/Future-Gadgets-Lab/FOS-Fire-SOS-System/master/Database.png)
 
 
 ### Post Effects
 
 A beacon system based on bluetooth connectivity is used to inform the fire rescuers in case one is stuck. It employs an algorithm which senses the closeness of the stuck person to the rescuers and guide them consequently, by vibration alerts. The distance is also specified as accurate values in meters ( to about 5 decimal places). This helps in relieving the post effects of the fire catastrophe. 
 
-![alt text](https://raw.githubusercontent.com/chetanchawla/FOS-Fire-SOS-System/master/Beacon.png)
+![alt text](https://raw.githubusercontent.com/Future-Gadgets-Lab/FOS-Fire-SOS-System/master/Beacon.png)
 
 
 Fundraising for any tragedy using decentralized platform is integrated within the app that allows to raise funds for the areas suffering calamities powered by security and transparency of blockchain.  It not only sends the amount to the right person in authority but also ensures the sense of belief that his money is used for the right purpose. The whole of smart contract and contract page can be seen any instance to ensure the transaction was successful.  We are using the states ranking to have a healthy competition amongst states too. The donation amount can be withdrawn by only 4 persons (decided at the time of deployment) who are in commanding officers of that rescue team. 
 Comparison and Applications
 
-![alt text](https://raw.githubusercontent.com/chetanchawla/FOS-Fire-SOS-System/master/Beacon.jpeg)
+![alt text](https://raw.githubusercontent.com/Future-Gadgets-Lab/FOS-Fire-SOS-System/master/Beacon.jpeg)
 
 
 The existing methods of fire-reporting uses satellite data, such as in FIRMS, which is extremely unreliable as it gets updated in 3-5 hours.
