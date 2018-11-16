@@ -34,7 +34,7 @@ SOS button sends severity and spread of fire information to the firebase server 
 
 ![alt text](https://raw.githubusercontent.com/Future-Gadgets-Lab/FOS-Fire-SOS-System/master/App.png)
 
-![alt text](https://raw.githubusercontent.com/Future-Gadgets-Lab/FOS-Fire-SOS-System/master/Fire Detection.jpeg)
+![alt text](https://raw.githubusercontent.com/Future-Gadgets-Lab/FOS-Fire-SOS-System/master/Fire.png)
 
 ![alt text](https://raw.githubusercontent.com/Future-Gadgets-Lab/FOS-Fire-SOS-System/master/Database.png)
 
@@ -49,7 +49,7 @@ A beacon system based on bluetooth connectivity is used to inform the fire rescu
 Fundraising for any tragedy using decentralized platform is integrated within the app that allows to raise funds for the areas suffering calamities powered by security and transparency of blockchain.  It not only sends the amount to the right person in authority but also ensures the sense of belief that his money is used for the right purpose. The whole of smart contract and contract page can be seen any instance to ensure the transaction was successful.  We are using the states ranking to have a healthy competition amongst states too. The donation amount can be withdrawn by only 4 persons (decided at the time of deployment) who are in commanding officers of that rescue team. 
 Comparison and Applications
 
-![alt text](https://raw.githubusercontent.com/Future-Gadgets-Lab/FOS-Fire-SOS-System/master/Beacon.jpeg)
+![alt text](https://raw.githubusercontent.com/Future-Gadgets-Lab/FOS-Fire-SOS-System/master/Blockchain.png)
 
 
 The existing methods of fire-reporting uses satellite data, such as in FIRMS, which is extremely unreliable as it gets updated in 3-5 hours.
