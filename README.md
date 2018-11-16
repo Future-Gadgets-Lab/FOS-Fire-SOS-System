@@ -28,6 +28,11 @@ It has 2 modules-
 ### Fire Rescue
 
 SOS button sends severity and spread of fire information to the firebase server connected to nearest fire department, which in turn dispatches a drone and its personnel according to the distance. The drone, and crowd sourced information along with satellite data helps in making fire spread map and rescue paths as well as inform about pedestrians stuck in different grids of the whole area
+![alt text](https://raw.githubusercontent.com/chetanchawla/FOS-Fire-SOS-System/master/Map.png)
+
+![alt text](https://raw.githubusercontent.com/chetanchawla/FOS-Fire-SOS-System/master/Track.jpeg)
+
+![alt text](https://raw.githubusercontent.com/chetanchawla/FOS-Fire-SOS-System/master/Fire Detection.jpeg)
 
 ### Post Effects
 
