@@ -18,20 +18,20 @@ A drone is dispatched consequently (complementary to the fire rescuers) to give 
 Based on this data, a real-time fire-map as well as inferenced escape routes are made available to the public as well as the fire-departments.
 
 ### Flowchart
-<img src="https://github.com/Future-Gadgets-Lab/FOS-Fire-SOS-System/dev/Screenshots/Flowchart.png" >
+<img src="https://github.com/Future-Gadgets-Lab/FOS-Fire-SOS-System/blob/dev/Screenshots/Flowchart.png" >
 
 
 ## Android Application :
 
-It has 2 modules-
+It has 2 modules :
 
 ### Fire Rescue
 
 SOS button sends severity and spread of fire information to the firebase server connected to nearest fire department, which in turn dispatches a drone and its personnel according to the distance. The drone, and crowd sourced information along with satellite data helps in making fire spread map and rescue paths as well as inform about pedestrians stuck in different grids of the whole area
 
-<img src="https://github.com/Future-Gadgets-Lab/FOS-Fire-SOS-System/blob/dev/Screenshots/Map.png" align="left" height="500" width="280" >
+<img src="https://github.com/Future-Gadgets-Lab/FOS-Fire-SOS-System/blob/dev/Screenshots/Map.png" align="left" height="550" width="280" >
 
-<img src="https://github.com/Future-Gadgets-Lab/FOS-Fire-SOS-System/blob/dev/Screenshots/App.png" height="500" width="280" >
+<img src="https://github.com/Future-Gadgets-Lab/FOS-Fire-SOS-System/blob/dev/Screenshots/App.png" height="550" width="280" >
 <br>
 <img src="https://github.com/Future-Gadgets-Lab/FOS-Fire-SOS-System/blob/dev/Screenshots/Track.png" >
 
