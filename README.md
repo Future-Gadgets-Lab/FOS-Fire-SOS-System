@@ -18,8 +18,8 @@ A drone is dispatched consequently (complementary to the fire rescuers) to give 
 Based on this data, a real-time fire-map as well as inferenced escape routes are made available to the public as well as the fire-departments.
 
 ### Flowchart
+<img src="https://github.com/Future-Gadgets-Lab/FOS-Fire-SOS-System/dev/Screenshots/Flowchart.png" >
 
-![alt text](https://raw.githubusercontent.com/Future-Gadgets-Lab/FOS-Fire-SOS-System/master/Flowchart.png)
 
 ## Android Application :
 
@@ -28,28 +28,31 @@ It has 2 modules-
 ### Fire Rescue
 
 SOS button sends severity and spread of fire information to the firebase server connected to nearest fire department, which in turn dispatches a drone and its personnel according to the distance. The drone, and crowd sourced information along with satellite data helps in making fire spread map and rescue paths as well as inform about pedestrians stuck in different grids of the whole area
-![alt text](https://raw.githubusercontent.com/Future-Gadgets-Lab/FOS-Fire-SOS-System/master/Map.png)
 
-![alt text](https://raw.githubusercontent.com/Future-Gadgets-Lab/FOS-Fire-SOS-System/master/Track.png)
+<img src="https://github.com/Future-Gadgets-Lab/FOS-Fire-SOS-System/dev/Screenshots/Map.png" align="left" height="400" width="280" >
 
-![alt text](https://raw.githubusercontent.com/Future-Gadgets-Lab/FOS-Fire-SOS-System/master/App.png)
+<img src="https://github.com/Future-Gadgets-Lab/FOS-Fire-SOS-System/dev/Screenshots/App.png" align="right" height="400" width="280" >
 
-![alt text](https://raw.githubusercontent.com/Future-Gadgets-Lab/FOS-Fire-SOS-System/master/Fire.png)
+<img src="https://github.com/Future-Gadgets-Lab/FOS-Fire-SOS-System/dev/Screenshots/Track.png" >
 
-![alt text](https://raw.githubusercontent.com/Future-Gadgets-Lab/FOS-Fire-SOS-System/master/Database.png)
+
+<img src="https://github.com/Future-Gadgets-Lab/FOS-Fire-SOS-System/dev/Screenshots/Fire.png"  height="400" width="280" >
+
+<img src="https://github.com/Future-Gadgets-Lab/FOS-Fire-SOS-System/dev/Screenshots/Database.png">
 
 
 ### Post Effects
 
 A beacon system based on bluetooth connectivity is used to inform the fire rescuers in case one is stuck. It employs an algorithm which senses the closeness of the stuck person to the rescuers and guide them consequently, by vibration alerts. The distance is also specified as accurate values in meters ( to about 5 decimal places). This helps in relieving the post effects of the fire catastrophe. 
 
-![alt text](https://raw.githubusercontent.com/Future-Gadgets-Lab/FOS-Fire-SOS-System/master/Beacon.png)
+<img src="https://github.com/Future-Gadgets-Lab/FOS-Fire-SOS-System/dev/Screenshots/Beacon.png" height="400" width="560">
 
 
-Fundraising for any tragedy using decentralized platform is integrated within the app that allows to raise funds for the areas suffering calamities powered by security and transparency of blockchain.  It not only sends the amount to the right person in authority but also ensures the sense of belief that his money is used for the right purpose. The whole of smart contract and contract page can be seen any instance to ensure the transaction was successful.  We are using the states ranking to have a healthy competition amongst states too. The donation amount can be withdrawn by only 4 persons (decided at the time of deployment) who are in commanding officers of that rescue team. 
+
+Fundraising for any tragedy using decentralized platform is integrated within the app that allows to raise funds for the areas suffering calamities powered by security and transparency of blockchain.  It not only sends the amount to the right person in authority but also ensures the sense of belief that his money is used for the right purpose. The whole of smart contract and contract page can be seen any instance to ensure the transaction was successful.  We are using the states ranking to have a healthy competition amongst states too. The donation amount can be withdrawn by only 4 persons (decided at the time of deployment) who are in commanding officers of that rescue team.
+
 Comparison and Applications
-
-![alt text](https://raw.githubusercontent.com/Future-Gadgets-Lab/FOS-Fire-SOS-System/master/Blockchain.png)
+<img src="https://github.com/Future-Gadgets-Lab/FOS-Fire-SOS-System/dev/Screenshots/Blockchain.png" height="400" width="280">
 
 
 The existing methods of fire-reporting uses satellite data, such as in FIRMS, which is extremely unreliable as it gets updated in 3-5 hours.
@@ -57,3 +60,44 @@ The existing methods of fire-reporting uses satellite data, such as in FIRMS, wh
 Other ways of fighting fire includes slower fire-trucks which does not leave enough time for scenario analysis and thus, the rescue operation often relies only on intuition of directions and routes along with survivors.
 Thus, the proposed system finds its way to help make public aware of safe routes to follow, help fire-teams employ a faster way of data collection and reduces entropy in rescuing operation, and helps people to get post catastrophe help as well as give them tips and one button emergency contacts as side features.
 
+## Our Team
+
+<table border="0">
+<tr>
+<td width="240">
+     <img src="https://avatars2.githubusercontent.com/u/30948046?s=460&v=4" />
+     <div align="center">
+     Jaspreet Singh
+</div>
+<p align="center">
+<a href = "https://github.com/iamjaspreetsingh"><img src = "./docs/images/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
+<a href = "https://twitter.com/singhjaspreet_"><img src = "./docs/images/media.svg" width="36" height="36"/></a>
+<a href = "https://www.linkedin.com/in/jaspreetsingh1961998/"><img src = "./docs/images/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/></a>
+</p>
+</td>
+
+<td width="240">
+     <img src="https://avatars0.githubusercontent.com/u/25385371?s=400&v=4"/>
+        <div align="center">
+     Chetan Chawla
+     </div>
+<p align="center">
+<a href = "https://github.com/chetanchawla"><img src = "./docs/images/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
+<a href = "https://twitter.com/Chetan_Chawla_"><img src = "./docs/images/media.svg" width="36" height="36"/></a>
+<a href = "https://linkedin.com/in/chetan-chawla"><img src = "./docs/images/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/></a>
+</p>
+</td>
+
+<td width="240">
+     <img src="https://avatars3.githubusercontent.com/u/32419771?s=400&v=4" />
+     <div align="center">
+     Yashvi Gulati
+</div>
+<p align="center">
+<a href = "https://github.com/YashviGulati"><img src = "./docs/images/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
+<a href = "https://www.linkedin.com/in/yashvi-gulati/"><img src = "./docs/images/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/></a>
+</p>
+</td>
+
+</tr>
+</table>
