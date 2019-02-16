@@ -29,14 +29,11 @@ It has 2 modules-
 
 SOS button sends severity and spread of fire information to the firebase server connected to nearest fire department, which in turn dispatches a drone and its personnel according to the distance. The drone, and crowd sourced information along with satellite data helps in making fire spread map and rescue paths as well as inform about pedestrians stuck in different grids of the whole area
 
-<img src="https://github.com/Future-Gadgets-Lab/FOS-Fire-SOS-System/blob/dev/Screenshots/Map.png" align="left" height="400" width="280" >
+<img src="https://github.com/Future-Gadgets-Lab/FOS-Fire-SOS-System/blob/dev/Screenshots/Map.png" align="left" height="500" width="280" >
 
-<img src="https://github.com/Future-Gadgets-Lab/FOS-Fire-SOS-System/blob/dev/Screenshots/App.png" align="right" height="400" width="280" >
+<img src="https://github.com/Future-Gadgets-Lab/FOS-Fire-SOS-System/blob/dev/Screenshots/App.png" height="500" width="280" >
 <br>
 <img src="https://github.com/Future-Gadgets-Lab/FOS-Fire-SOS-System/blob/dev/Screenshots/Track.png" >
-
-
-<img src="https://github.com/Future-Gadgets-Lab/FOS-Fire-SOS-System/blob/dev/Screenshots/Fire.png"  height="400" width="280" >
 
 <img src="https://github.com/Future-Gadgets-Lab/FOS-Fire-SOS-System/blob/dev/Screenshots/Database.png">
 
@@ -45,13 +42,13 @@ SOS button sends severity and spread of fire information to the firebase server 
 
 A beacon system based on bluetooth connectivity is used to inform the fire rescuers in case one is stuck. It employs an algorithm which senses the closeness of the stuck person to the rescuers and guide them consequently, by vibration alerts. The distance is also specified as accurate values in meters ( to about 5 decimal places). This helps in relieving the post effects of the fire catastrophe. 
 
-<img src="https://github.com/Future-Gadgets-Lab/FOS-Fire-SOS-System/blob/dev/Screenshots/Beacon.png" height="400" width="560">
+<img src="https://github.com/Future-Gadgets-Lab/FOS-Fire-SOS-System/blob/dev/Screenshots/Beacon.png" height="550" width="560">
 
 
 
 Fundraising for any tragedy using decentralized platform is integrated within the app that allows to raise funds for the areas suffering calamities powered by security and transparency of blockchain.  It not only sends the amount to the right person in authority but also ensures the sense of belief that his money is used for the right purpose. The whole of smart contract and contract page can be seen any instance to ensure the transaction was successful.  We are using the states ranking to have a healthy competition amongst states too. The donation amount can be withdrawn by only 4 persons (decided at the time of deployment) who are in commanding officers of that rescue team.
 
-<img src="https://github.com/Future-Gadgets-Lab/FOS-Fire-SOS-System/blob/dev/Screenshots/Blockchain.png" height="400" width="280">
+<img src="https://github.com/Future-Gadgets-Lab/FOS-Fire-SOS-System/blob/dev/Screenshots/Blockchain.png" height="550" width="290">
 
 
 ## Comparison and Applications
@@ -71,9 +68,9 @@ Thus, the proposed system finds its way to help make public aware of safe routes
      Jaspreet Singh
 </div>
 <p align="center">
-<a href = "https://github.com/iamjaspreetsingh"><img src = "./docs/images/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
-<a href = "https://twitter.com/singhjaspreet_"><img src = "./docs/images/media.svg" width="36" height="36"/></a>
-<a href = "https://www.linkedin.com/in/jaspreetsingh1961998/"><img src = "./docs/images/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/></a>
+<a href = "https://github.com/iamjaspreetsingh"><img src = "./Screenshots/round.svg" width="36" height = "36"/></a>
+<a href = "https://twitter.com/singhjaspreet_"><img src = "./Screenshots/media.svg" width="36" height="36"/></a>
+<a href = "https://www.linkedin.com/in/jaspreetsingh1961998/"><img src = "./Screenshots/network.svg" width="36" height="36"/></a>
 </p>
 </td>
 
@@ -83,9 +80,9 @@ Thus, the proposed system finds its way to help make public aware of safe routes
      Chetan Chawla
      </div>
 <p align="center">
-<a href = "https://github.com/chetanchawla"><img src = "./docs/images/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
-<a href = "https://twitter.com/Chetan_Chawla_"><img src = "./docs/images/media.svg" width="36" height="36"/></a>
-<a href = "https://linkedin.com/in/chetan-chawla"><img src = "./docs/images/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/></a>
+<a href = "https://github.com/chetanchawla"><img src = "./Screenshots/round.svg" width="36" height = "36"/></a>
+<a href = "https://twitter.com/Chetan_Chawla_"><img src = "./Screenshots/media.svg" width="36" height="36"/></a>
+<a href = "https://linkedin.com/in/chetan-chawla"><img src = "./Screenshots/network.svg" width="36" height="36"/></a>
 </p>
 </td>
 
@@ -95,8 +92,8 @@ Thus, the proposed system finds its way to help make public aware of safe routes
      Yashvi Gulati
 </div>
 <p align="center">
-<a href = "https://github.com/YashviGulati"><img src = "./docs/images/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
-<a href = "https://www.linkedin.com/in/yashvi-gulati/"><img src = "./docs/images/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/></a>
+<a href = "https://github.com/YashviGulati"><img src = "./Screenshots/round.svg" width="36" height = "36"/></a>
+<a href = "https://www.linkedin.com/in/yashvi-gulati/"><img src = "./Screenshots/network.svg" width="36" height="36"/></a>
 </p>
 </td>
 
