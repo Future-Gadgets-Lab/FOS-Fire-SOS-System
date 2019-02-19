@@ -48,8 +48,8 @@ A beacon system based on bluetooth connectivity is used to inform the fire rescu
 
 Fundraising for any tragedy using decentralized platform is integrated within the app that allows to raise funds for the areas suffering calamities powered by security and transparency of blockchain.  It not only sends the amount to the right person in authority but also ensures the sense of belief that his money is used for the right purpose. The whole of smart contract and contract page can be seen any instance to ensure the transaction was successful.  We are using the states ranking to have a healthy competition amongst states too. The donation amount can be withdrawn by only 4 persons (decided at the time of deployment) who are in commanding officers of that rescue team.
 
-<img src="https://github.com/Future-Gadgets-Lab/FOS-Fire-SOS-System/blob/dev/Screenshots/Blockchain.png" height="550" width="290">
-
+<img src="https://github.com/Future-Gadgets-Lab/FOS-Fire-SOS-System/blob/dev/Screenshots/Blockchain.png" align="left" height="550" width="290">
+<img src="https://github.com/Future-Gadgets-Lab/FOS-Fire-SOS-System/blob/dev/Screenshots/blk1.png" height="550" width="290">
 
 ## Comparison and Applications
 
@@ -77,7 +77,7 @@ Thus, the proposed system finds its way to help make public aware of safe routes
 <td width="240">
      <img src="https://avatars0.githubusercontent.com/u/25385371?s=400&v=4"/>
         <div align="center">
-     Chetan Chawla
+     Chetan Chawla (L)
      </div>
 <p align="center">
 <a href = "https://github.com/chetanchawla"><img src = "./Screenshots/round.svg" width="36" height = "36"/></a>
